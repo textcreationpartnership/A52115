@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Princes standard set up in the vice-admirall on the downes neere Sandowne Castle His Highnesse demand of twenty thousand pounds from the city of London, the declaration, and heads of two letters sent to the city, and read at a common councell, signed with the Princes own hand : also His Highnesse message to Sir Michael Lieusay of Kent ...</title>
+            <author>T. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52115</idno>
+            <idno type="STC">Wing M84A</idno>
+            <idno type="STC">ESTC R23177</idno>
+            <idno type="EEBO-CITATION">12064111</idno>
+            <idno type="OCLC">ocm 12064111</idno>
+            <idno type="VID">53335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 817:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Princes standard set up in the vice-admirall on the downes neere Sandowne Castle His Highnesse demand of twenty thousand pounds from the city of London, the declaration, and heads of two letters sent to the city, and read at a common councell, signed with the Princes own hand : also His Highnesse message to Sir Michael Lieusay of Kent ...</title>
+                  <author>T. M.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Page 3 signed: T.M.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53335:1"/>
+            <pb facs="tcp:53335:1" rendition="simple:additions"/>
+            <p>The Princes Standard SET UP In the Vice-Admirall on the Downes neere <hi>Sandowne Caſtle.</hi>
+            </p>
+            <p>His Highneſſe Demand of twenty thouſand pounds from the City of London: the Declaration, and heads of two Letters ſent to the City, and read at a Common Councell, ſigned with the Princes own Hand.</p>
+            <p>Alſo his Highneſſe Meſſage to Sir <hi>Michael Lieuſay</hi> of Kent ſent by a Trumpeter: the burning of the town of Deale, and the <hi>Duke of Yorke</hi> returned into Holland for more men: With a Commiſſion from the Prince, ſent to the Governour of Scarborough Caſtle.</p>
+            <figure>
+               <head>C P</head>
+               <q xml:lang="ger">ICH DIEN</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON: Printed for <hi>R. A.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:53335:2"/>
+            <pb n="1" facs="tcp:53335:2"/>
+            <head>A FULL RELATION OF The whole proceedings at the Siege before <hi>DEALE-CASTLE.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UPon our laying cloſe ſiege to Deale-Caſtle, the Defendents by Grana<g ref="char:EOLhyphen"/>does and red hot Loggets, fired part of the towne, which we could not quench before it had burnt downe ſixteen houſes, becauſe the wind ſate North-Eaſt, and
+<pb n="2" facs="tcp:53335:3"/>forced the flame upon the whole towne; we have raiſed a Fort between the Caſtle and the Sea, which will keep off any ſhips for coming to annoy us: We have alſo raiſed another Fort between this and Sandown-Caſtle, by which meanes no reliefe or Forces can land there. Friday laſt wee played with our Canon againſt the Caſtle, and every night they ſend many Canon ſhot unto us in the towne, which was ſuch a terrour to the Inhabitants, that they have all forſaken their dwellings: there be in the Caaſtle about two hundred men, women, and children; when wee ſent ſome Granadoes amongſt them, upon ſight of our giving fire, thoſe in the Caſtle keeping a watch, preſently perceived what was coming amongſt them, up<g ref="char:EOLhyphen"/>on which thoſe, which were on the watch gave an alarum to the reſt by the ſound of a Bell, which when they heard the reſt in the Caſtle got downe into the Cellar, and avoided the fury of the execution; thoſe which were taken in the Princes Frigot the laſt week in the Iſle of Thanet being examined ſay, that the Sea agreed not with the health of the Duke of Yorke, and thereupon he is returned againe into Holland: but others ſay, he is gone to ſtrengthen himſelfe in men and ſhipping; the Prince with a Fleet of ſhips hath rid within ſight of this Caſtle, and hath ſet up his Standard in the Vice-Admirall, and divers ſhips ſailing for Lon<g ref="char:EOLhyphen"/>don have been ſtayed. The Earle of Warwick
+<pb n="3" facs="tcp:53335:3"/>hath alſo ſet up his Standard for the Parlia<g ref="char:EOLhyphen"/>ment, but no action hath as yet happened be<g ref="char:EOLhyphen"/>tween them, we have not loſt above ſix or ſe<g ref="char:EOLhyphen"/>ven men before Deale-Caſtle ſince our ſitting downe before it, ſome execution hath beene made in the Caſtle, but what their loſſe is, as yet we know not: Captaine <hi>Green</hi> who com<g ref="char:EOLhyphen"/>manded the Frigot before mentioned, which was taken by Sir <hi>Michael Lieuſay's</hi> men in the Iſle of Thanet, was to be tried for his life by a Coun<g ref="char:EOLhyphen"/>cell of Warre, but the Prince ſent a Trumpeter on ſhore in the interim with a white paper in his hat ſigned,<lb/>
+               <q>
+                  <hi>Charles, Prince of VVales.</hi>
+               </q>
+            </p>
+            <p>In which paper his Highneſſe required the ſaid Captaine <hi>Green</hi> ſhould be ſent to him againe by exchange or otherwayes, and in it thought this motion will be granted: the Meſſage was ſent, as we underſtand, to Sir <hi>Michael Lieuſay,</hi> of which I ſhall give you a further account by the next.</p>
+            <closer>
+               <dateline>Sandwich, <date>Aug. 2. 1648.</date>
+               </dateline>
+               <signed>Your aſſured Friend, <hi>T. M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="report">
+            <pb facs="tcp:53335:4"/>
+            <p>I have here incloſed ſent you a copie of the Prin<g ref="char:EOLhyphen"/>ces Commiſſion, as it was ſent to the Governour of Scarborough Caſtle.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>
+                        <hi>CHARLES P. Charles</hi> Prince of Great Britaine, Duke of Cornwall and Albaine; Higheſt Captain Generall under His Majeſty, of all the Forces by Sea and Land within the Kingdome of England and Dominion of Wales.</signed>
+                     <salute>Truſty and well-beloved,</salute>
+                  </opener>
+                  <p>WE do by theſe preſents, out of the ſpe<g ref="char:EOLhyphen"/>ciall truſt and confidence We repoſe in you, nominate, conſtitute, and appoint you to be Governour for His Majeſty, of the Town and Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Scarborough,</hi> and of the Garriſon Souldiers, Forces, and Inhabitants thereof (whom we hereby command to obey you in all things, as their Go<g ref="char:EOLhyphen"/>vernour, giving you full power and authority to command as well the preſent Garriſon of the ſaid Town and Caſtle, as any other or greater Garriſon that ſhall hereafter be ſetled thereabouts, for His Majeſties ſervice, and to appoint and authorize by Commiſſion all ſuch Officers under you, as ſhall be from time to time neceſſary for the government of the ſaid Town &amp; Caſtle, and for the command of
+<pb n="5" facs="tcp:53335:4"/>the Garriſon and Inhabitants there, authorizing and requiring you likewiſe, to keep and defend, with the aſſiſtance of the ſaid Garriſon, or of any other Forces you can get, the ſaid Town and Caſtle for His Majeſties uſe, and ſervice, againſt all invaſions and attempts whatſoever. And for the better de<g ref="char:EOLhyphen"/>fence of the ſame, to add ſuch new Works, as you in your judgement and diſcretion ſhall think meet, to the Fortification already made, as alſo, to do and execute all ſuch other things and duties as belong to the office and authority of Governour of the ſaid Town and Caſtle, and as you in your judgement ſhall think fit, for the neceſſary defence thereof, and in as large and ample manner as you now hold and exerciſe the ſame. In the execution whereof, and of this our Commiſſion, you are to obey and purſue ſuch Orders as you ſhall from time to time receive from His Majeſty, from Us, or from ſuch perſon as we ſhall appoint.</p>
+                  <closer>
+                     <dateline>Given under our Hand and Seale <date>in the 24. yeare of the Reigne of our Royall Father the King.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:53335:5"/>
+            <p> Wedneſday the 2. of July the Prince ſent a Let<g ref="char:EOLhyphen"/>ter to the Merchant-Adventurers of the City of London, but the matter therein contained was on<g ref="char:EOLhyphen"/>ly to deſire them to deliver the incloſed to the Lord Mayor, Aldermen, &amp;c.<lb/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p> </p>
+                     <closer>
+                        <signed>Signed <hi>Charles</hi> P.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>According to his Highneſſe requeſt, the incloſed Letter was delivered and read at a Common Coun<g ref="char:EOLhyphen"/>cell, and the effect of the Letter was to ſignifie, that his Highneſſe had cauſed to be ſtayed divers Merchants Ships, but would diſcharge them againe upon condition the City of London ſend him twenty thouſand pounds, with this Letter his Highneſſe ſent to the City his Declaration, <hi>That his endeavour is to reſcue the Kings Majeſty his royall Father from baſe impriſonment, reſtoring the rights, and liberties of the City of London.</hi> And ſo for all the other particulars contained in a ſheet called the Heads of the Prince his Declaration, which is al<g ref="char:EOLhyphen"/>ready printed, and is too large to be here againe in<g ref="char:EOLhyphen"/>ſerted, This Letter and Declaration were both ſigned with the Prince his own hand.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p> </p>
+                  <closer>
+                     <dateline>Dated, <date>1. Auguſt, 1648.</date>
+                     </dateline>
+                     <signed>CHALES P.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:53335:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
